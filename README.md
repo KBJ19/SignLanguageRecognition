@@ -19,3 +19,29 @@ Mediapipe
 Keras
 NumPy
 TensorBoard
+
+Implementation:
+
+![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/7de586df-8da9-49be-9728-9152ed5a7f4a)
+
+![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/5183e825-e2c0-4e9f-999e-1f546b44bb0f)
+
+![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/9adb1f54-0bb6-4b63-bc88-be5f83ae526c) 
+
+![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/895dab52-6d99-4ac1-9186-cbff242d6e18)  ![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/73251c2a-48d2-4342-bbcd-323814eb218f)
+
+![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/76a39d01-8327-4784-8df4-ee9589673be4)
+
+![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/b6cd8352-3494-4717-9814-78f902c1610a)
+
+Output:
+
+![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/d95c4924-94fe-4a97-b781-5fd7c03f6f41)  ![image](https://github.com/KBJ19/SignLanguageRecognition/assets/87027526/925993c5-9488-4f94-b6ff-af91372ba452)
+
+
+
+
+
+
+
+
